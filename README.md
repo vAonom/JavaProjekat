@@ -2,4 +2,4 @@
 
 ## Podnaslov
 Lista
-	-item
+	- item
